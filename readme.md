@@ -5,3 +5,5 @@ to run app
 ```
  parcel index.html
 ```
+
+This is a barebones setup for setting up google maps with typescript in vanilla js
